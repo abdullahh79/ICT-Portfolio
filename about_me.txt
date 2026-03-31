@@ -1,0 +1,6 @@
+My name is Abdullah Mumtaz.
+I am a student at Muhammad Ali Jinnah University Karachi.
+I am studying BS Software Engineering.
+I am currently in Semester 1.
+This repository is created for my ICT assignment.
+
